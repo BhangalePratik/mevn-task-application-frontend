@@ -5,4 +5,4 @@ node_modules
 HOW-TO-USE.pdf
 babel.config.js
 package-lock.json
-.browserlistrc
+.browserslistrc
