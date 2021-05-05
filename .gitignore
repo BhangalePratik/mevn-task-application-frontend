@@ -1,8 +1,8 @@
 .DS_Store
-node_modules
 .eslintrc.js
 .prettierrc
 HOW-TO-USE.pdf
 babel.config.js
 package-lock.json
 .browserslistrc
+node_modules
